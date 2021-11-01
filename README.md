@@ -1,6 +1,3 @@
-Hello there!
-
-
 PLAYER
 - Username: SkriptIsHot
 - Rank: Developer
