@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skriptishot&layout=compact&bg_color=#000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skriptishot&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 **PLAYER**
 - Username: SkriptIsHot
