@@ -1,28 +1,14 @@
-PLAYER
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skriptishot&show_icons=true&theme=tokyonight)
+
+**PLAYER**
 - Username: SkriptIsHot
 - Rank: Developer
 - Age: 16
 
-.
-
-
-Interests/Hobbies
+**Interests/Hobbies**
 - Java/Skript Coding
 - Failing Highschool
 
-.
 
-
-Current Projects
-- Learning Java
-- Expanding Skript Knowledge
-- Free Skripts
-
-
-.
-
-
-Server | Occupation:
-- SkTesteth (Owner)
-- Lavatic (Co-Owner)
-- EdwinLight (Developer)
+**Current Project(s)**
+- Learning JavaScript
