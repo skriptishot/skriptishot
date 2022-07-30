@@ -1,14 +1,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skriptishot&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 **PLAYER**
-- Username: SkriptIsHot
-- Rank: Developer
-- Age: 16
+- CodeIsHot#5135
 
 **Interests/Hobbies**
-- Java/Skript Coding
-- Failing Highschool
-
+- JavaScript | Skript
 
 **Current Project(s)**
-- Learning JavaScript
+- Discord Bot using Discord.js
