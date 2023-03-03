@@ -4,7 +4,7 @@
 - CodeIsHot#5135
 
 **LANGUAGES**
-- ypeScript, Python, Java, Lua
+- Typescript, Java, Python and Lua
 
 **Current Project(s)**
 - Miner's Haven (from Roblox) in Minecraft (hosted on Minehut)
