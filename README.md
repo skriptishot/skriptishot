@@ -1,10 +1,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skriptishot&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-**PLAYER**
+**DISCORD**
 - CodeIsHot#5135
 
-**Interests/Hobbies**
-- JavaScript | Skript
+**LANGUAGES**
+- Java, TypeScript, Python, Lua
 
 **Current Project(s)**
-- Discord Bot using Discord.js
+- Miner's Haven (from Roblox) in Minecraft (hosted on Minehut)
